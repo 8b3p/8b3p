@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Omair Daleen
-- 👀 I’m interested in software development and tech in general
-- 🌱 I’m currently learning front-end and blockchain development
-- 📫 How to reach me: 
-       linkedin linkedin.com/in/omair-khaled-098542221
-       Email: omairdal@gmail.com
+👋 Hey, I'm Omair
 
-short and simple 
+🚀 Passionate about crafting seamless user experiences through code.
+
+🎨 Proficient in React, Next.js, and Express.
+
+🔧 From optimizing UI components to creating Power Platform solutions.
+
+🌱 Committed to continuous learning and exploring the intersections of tech and management.
+
+🌟 Let's collaborate and build impactful digital experiences together.
