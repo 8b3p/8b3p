@@ -1,11 +1,9 @@
-👋 Hey, I'm Omair
+### Hey — I'm Omair
 
-🚀 Passionate about crafting seamless user experiences through code.
+I'm a senior frontend engineer. I care about **clear UI**, **maintainable code**, and **picking tools that fit the problem** — not the other way around.
 
-🎨 Proficient in React, Next.js, and Express.
+Day to day that's often **React**, but I've shipped things with **Next.js**, **Electron**, and **Power Platform / Dataverse**. Same idea for cloud bits, real-time stuff, CI/CD, whatever the job called for.
 
-🔧 From optimizing UI components to creating Power Platform solutions.
+Right now I'm leading frontend at **Omnix** on a big consolidation project (**MBRHE**) — lots of **micro-frontends** and turning a pile of old systems into something people can actually use. I'm also still involved with **AX Advisory** on client apps (cross-platform, PowerApps MDAs). If you want the longer version of any of that, it's all on my site.
 
-🌱 Committed to continuous learning and exploring the intersections of tech and management.
-
-🌟 Let's collaborate and build impactful digital experiences together.
+**Where to find me:** [daleen.dev](https://daleen.dev) · [LinkedIn](https://www.linkedin.com/in/omair-daleen/) · [omair@daleen.dev](mailto:omair@daleen.dev)
